@@ -1,2 +1,4 @@
 # OTPEncryptor
-just testing a simple insecure encryption program
+A simple insecure encryption program :D
+
+Just playing around with byte arrays and stuff
